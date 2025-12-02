@@ -49,13 +49,6 @@ A API utiliza ASP.NET Core com Minimal APIs, Entity Framework Core para persist�
    ```bash
    dotnet run
    ```
-
-5. Acesse a documentação Swagger
-   - Abra o navegador em: `https://localhost:5001/swagger` ou `http://localhost:5000/swagger`
-   - A porta pode variar conforme configuração do `launchSettings.json`
-
-O banco de dados SQLite será criado automaticamente na primeira execução (arquivo `usuarios.db` na raiz do projeto).
-
 ## Exemplos de Requisições
 
 ### Criar Usuário (POST /usuarios)
@@ -201,6 +194,7 @@ ASDOPROFESSORFOGAO/
 
 Victor Schnath da Silva  
 Curso: Análise e Desenvolvimento de Sistemas - Desenvolvimento Back-End
+Youtube: https://www.youtube.com/watch?v=au3n0vda-gA
 
 
 
